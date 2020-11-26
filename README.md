@@ -23,7 +23,6 @@ mollit anim id est laborum.
   - `/Readings` Papers to keep track of reading locally, not pushed.
   - `/Writing` Case studies and the paper, without its knitted PDF
     pushed.
-  - `README` The abstract and project organization details.
 
 For general details on collaborating using GitHub see [Research
 Assistant Training](https://github.com/marcdotson/ra-training).

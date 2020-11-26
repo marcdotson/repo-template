@@ -17,6 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - `/Private` A catch-all folder for miscellaneous files, not pushed.
 - `/Readings` Papers to keep track of reading locally, not pushed.
 - `/Writing` Case studies and the paper, without its knitted PDF pushed.
-- `README` The abstract and project organization details.
 
 For general details on collaborating using GitHub see [Research Assistant Training](https://github.com/marcdotson/ra-training).
