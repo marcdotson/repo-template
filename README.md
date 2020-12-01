@@ -20,7 +20,6 @@ mollit anim id est laborum.
   - `/Output` Output from model runs, not pushed.
   - `/Presentation` Presentation slides, without its knitted PDF pushed.
   - `/Private` A catch-all folder for miscellaneous files, not pushed.
-  - `/Readings` Papers to keep track of reading locally, not pushed.
   - `/Writing` Case studies and the paper, without its knitted PDF
     pushed.
 
