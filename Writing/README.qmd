@@ -1,6 +1,6 @@
 ---
 title: "Writing"
-output: github_document
+format: gfm
 ---
 
 Case studies and the paper, without its knitted PDF pushed.
@@ -12,5 +12,5 @@ License: This work is licensed under a [Creative Commons Attribution-ShareAlike 
 - `mktg-article.cls` LaTeX style file.
 - `mktg-article.tex` LaTeX template file.
 - `mktg-bib.bib` Bibliography style file.
-- `paper-template.Rmd` Paper template.
+- `paper-template.qmd` Paper template.
 - `references.bib` References template.

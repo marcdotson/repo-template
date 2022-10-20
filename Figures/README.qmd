@@ -1,6 +1,6 @@
 ---
 title: "Figures"
-output: github_document
+format: gfm
 ---
 
 PNG images and plots.

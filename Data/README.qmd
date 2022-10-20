@@ -1,6 +1,6 @@
 ---
 title: "Data"
-output: github_document
+format: gfm
 ---
 
 Simulated and real data, the latter not pushed.

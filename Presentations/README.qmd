@@ -1,6 +1,6 @@
 ---
-title: "Presentation"
-output: github_document
+title: "Presentations"
+format: gfm
 ---
 
 Presentation slides, without its knitted PDF pushed.

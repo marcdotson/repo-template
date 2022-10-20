@@ -1,6 +1,6 @@
 ---
 title: "Repo Template"
-output: github_document
+format: gfm
 ---
 
 ## Abstract
@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - `/Data` Simulated and real data, the latter not pushed.
 - `/Figures` PNG images and plots.
 - `/Output` Output from model runs, not pushed.
-- `/Presentation` Presentation slides, without its knitted PDF pushed.
+- `/Presentations` Presentation slides, without its knitted PDF pushed.
 - `/Private` A catch-all folder for miscellaneous files, not pushed.
 - `/Writing` Case studies and the paper, without its knitted PDF pushed.
 

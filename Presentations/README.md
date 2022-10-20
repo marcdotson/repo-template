@@ -1,4 +1,4 @@
-Presentation
+Presentations
 ================
 
 Presentation slides, without its knitted PDF pushed.
