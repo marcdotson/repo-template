@@ -9,8 +9,6 @@ License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Files
 
-- `mktg-article.cls` LaTeX style file.
-- `mktg-article.tex` LaTeX template file.
-- `mktg-bib.bib` Bibliography style file.
-- `paper-template.qmd` Paper template.
+- `_extensions` JASA template files.
 - `references.bib` References template.
+- `paper-template.qmd` Paper template.
