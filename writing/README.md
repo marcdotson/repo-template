@@ -1,7 +1,6 @@
-Writing
-================
+# Writing
 
-Case studies and the paper, without its knitted PDF pushed.
+Case studies and the paper.
 
 License: This work is licensed under a [Creative Commons
 Attribution-ShareAlike 4.0 International

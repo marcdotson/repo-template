@@ -17,10 +17,10 @@ mollit anim id est laborum.
 - `/data` Simulated and real data, the latter not pushed.
 - `/figures` PNG images and plots.
 - `/output` Output from model runs, not pushed.
-- `/presentations` Presentation slides, without its knitted PDF pushed.
+- `/presentations` Presentation slides.
 - `/private` A catch-all folder for miscellaneous files, not pushed.
 - `/renv` Project library, once initialized (see below).
-- `/writing` Case studies and the paper, without its knitted PDF pushed.
+- `/writing` Case studies and the paper.
 - `renv.lock` Information on the reproducible environment.
 
 ## Reproducible Environment
